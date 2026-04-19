@@ -1,85 +1,71 @@
-# Privacy Policy
+# Terms of Service / นโยบายการใช้งานบอท
 
-## นโยบายความเป็นส่วนตัว
+## ภาษาไทย
 
-บอทของเราจะจัดเก็บข้อมูลที่จำเป็นต่อการทำงานของระบบ ดังนี้
+การเชิญบอทเข้าสู่เซิร์ฟเวอร์หรือการใช้งานบอท ถือว่าท่านยอมรับข้อตกลงและเงื่อนไขดังต่อไปนี้
 
-### ข้อมูลที่อาจถูกจัดเก็บ
+### 1. การใช้งานที่เหมาะสม
 
-1. **Server ID / ชื่อเซิร์ฟเวอร์**
-   จัดเก็บอัตโนมัติเมื่อบอทถูกเชิญเข้าเซิร์ฟเวอร์ เพื่อใช้บันทึกการตั้งค่าต่าง ๆ
+ผู้ใช้ตกลงว่าจะไม่ใช้บอทของเราเพื่อ:
 
-2. **Channel ID**
-   จัดเก็บเมื่อมีการเปิดใช้งานระบบต่าง ๆ เช่น
+* กระทำการที่ผิดกฎหมาย หรือสนับสนุนกิจกรรมที่ผิดกฎหมายทุกประเภท
+* ละเมิดกฎของ Discord หรือข้อกำหนดการให้บริการของ Discord
+* สแปมข้อความ คำสั่ง หรือรบกวนการทำงานของระบบ
+* สร้างความเดือดร้อน รำคาญ คุกคาม หรือกลั่นแกล้งผู้อื่น
+* ใช้บอทเพื่อหลอกลวง ฉ้อโกง หรือเจตนาประสงค์ร้าย
+* พยายามเจาะระบบ แก้ไข ดัดแปลง หรือใช้ช่องโหว่ของบอทโดยไม่ได้รับอนุญาต
+* ใช้งานบอทในลักษณะที่ส่งผลเสียต่อผู้ใช้อื่น ชุมชน หรือระบบของเรา
 
-* เกมนับเลข
-* ระบบพูดคุย
-* ระบบอื่น ๆ ของบอท
+### 2. สิทธิ์ในการระงับการใช้งาน
 
-3. **Role ID**
-   จัดเก็บเมื่อมีการตั้งค่าระบบ เช่น Autorole
+เราขอสงวนสิทธิ์ในการจำกัด ระงับ หรือแบนการใช้งานบอทของผู้ใช้หรือเซิร์ฟเวอร์ใด ๆ หากพบว่ามีการละเมิดข้อตกลงนี้ โดยไม่จำเป็นต้องแจ้งให้ทราบล่วงหน้า
 
-4. **User ID / ชื่อผู้ใช้**
-   จัดเก็บเฉพาะกรณีที่เป็นผู้ใช้ Premium หรืออยู่ในระบบ Blacklist เพื่อความปลอดภัยและการจัดการสิทธิ์
+### 3. การเปลี่ยนแปลงบริการ
 
-### การใช้ข้อมูล
+ฟีเจอร์ คำสั่ง หรือบริการของบอท อาจมีการแก้ไข เปลี่ยนแปลง หรือยุติการให้บริการได้ทุกเมื่อ
 
-ข้อมูลทั้งหมดถูกใช้เพื่อให้บอททำงานตามคำสั่งและบันทึกการตั้งค่าของผู้ใช้เท่านั้น
+### 4. ความรับผิดชอบของผู้ใช้
 
-### การเปิดเผยข้อมูล
+ผู้ใช้เป็นผู้รับผิดชอบต่อการใช้งานบอทภายในเซิร์ฟเวอร์ของตนเอง และผลกระทบที่เกิดจากการใช้งานดังกล่าว
 
-เราไม่มีการขาย หรือเผยแพร่ข้อมูลส่วนบุคคลให้บุคคลภายนอก เว้นแต่จำเป็นตามกฎหมาย
+### 5. การอัปเดตข้อตกลง
 
-### การลบข้อมูล
+เราสามารถปรับปรุงนโยบายนี้ได้ตลอดเวลา โดยการใช้งานต่อหลังมีการอัปเดต ถือว่ายอมรับข้อตกลงฉบับใหม่
 
-หากต้องการลบข้อมูล สามารถติดต่อได้ที่
+---
 
-Discord: https://discord.gg/hk8Y2nrZMj
-Email: [dxnamis@gmail.com](mailto:dxnamis@gmail.com)
+## English
 
-### อัปเดตล่าสุด
+By inviting or using this bot, you agree to the following terms and conditions.
 
-20/04/2026
------------
-# Privacy Policy
+### 1. Acceptable Use
 
-## Personal Data Collection Policy
+You agree not to use our bot to:
 
-Our bot may collect data necessary for its operation, as follows:
+* Engage in illegal activities or support unlawful actions of any kind
+* Violate Discord's Terms of Service or Community Guidelines
+* Spam messages, commands, or disrupt bot operations
+* Harass, annoy, threaten, or harm other users
+* Use the bot for scams, fraud, or malicious purposes
+* Exploit, modify, reverse engineer, or abuse vulnerabilities in the bot without permission
+* Use the bot in ways that negatively affect other users, communities, or our services
 
-### Data We May Store
+### 2. Right to Restrict Access
 
-1. **Server ID / Server Name**
-   Automatically stored when the bot joins a server, in order to save server settings and configurations.
+We reserve the right to limit, suspend, or blacklist any user or server that violates these terms, without prior notice.
 
-2. **Channel ID**
-   Stored when certain features are enabled, such as:
+### 3. Service Changes
 
-* Counting Game
-* Chat System
-* Other bot features
+Bot features, commands, and services may be modified, updated, or discontinued at any time.
 
-3. **Role ID**
-   Stored when configuring systems such as Autorole.
+### 4. User Responsibility
 
-4. **User ID / Username**
-   Stored only if you are a Premium user or are placed on the blacklist for security and moderation purposes.
+Users are solely responsible for how the bot is used within their server and for any consequences resulting from such use.
 
-### How We Use Data
+### 5. Policy Updates
 
-All collected data is used solely for operating the bot, providing requested features, and saving user/server settings.
+We may update these terms at any time. Continued use of the bot after updates means acceptance of the revised terms.
 
-### Data Sharing
-
-We do not sell, trade, or share personal data with third parties, unless required by law.
-
-### Data Deletion
-
-If you would like your data removed, you may contact us through:
-
-Discord: https://discord.gg/hk8Y2nrZMj
-Email: [dxnamis@gmail.com](mailto:dxnamis@gmail.com)
-
-### Last Updated
+### Last Updated / อัปเดตล่าสุด
 
 20/04/2026
